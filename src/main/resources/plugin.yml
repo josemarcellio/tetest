@@ -1,3 +1,5 @@
 name: Tetest
 main: com.josemarcellio.tetest.Tetest
 version: 1.0
+author: JoseMarcellio
+description: plugin designed to demonstrate extreme CPU and memory usage
