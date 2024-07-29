@@ -10,12 +10,9 @@ import java.util.concurrent.Executors;
 
 public class Tetest extends JavaPlugin {
     private ExecutorService executor;
-    public static Tetest PLUGIN;
 
     @Override
     public void onEnable() {
-
-        PLUGIN = this;
 
         getLogger().info("Tetest enabled!");
 
